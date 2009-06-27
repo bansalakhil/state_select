@@ -6,20 +6,20 @@ StateSelect
  Usage:
  state_select(object, method, country='US', options = {}, html_options = {})
   
-	Currently it supports only INDIA, US, CANADA, AUSTRALIA, SPAIN, FRANCE, UGANDA, GERMAN and NETHERLANDS
+	Currently it supports only INDIA, US, UK, CANADA, AUSTRALIA, SPAIN, FRANCE, UGANDA, GERMAN and NETHERLANDS
 	
 	*Thanks keith(http://rubygreenblue.com/) for Australia states
 	*Thanks Vicent (http://www.vicentgozalbes.com/) for Spain states
 	*Thanks Chuck Phillips for Uganda states
 	*Thanks Jonathan Tron for France states
+	*Thanks Gavin Morrice(http://handyrailstips.com/) for UK States
 
- If you want to add other country plese send me the list of states and I will add them.
+ If you want to add other country plese send me the list of states and I will add them, or you can fork and make a pull request.
 
 
 Author:
    Akhil Bansal 
    bansalakhil30.10@gmail.com
    http://webonrails.com
-   Vinayak Solutions Pvt. Ltd.(http://vinsol.com)
    New Delhi, India
    
