@@ -7,7 +7,11 @@ StateSelect
  state_select(object, method, country='US', options = {}, html_options = {})
   
 	Currently it supports only INDIA, US, UK, CANADA, AUSTRALIA, SPAIN, FRANCE, UGANDA, GERMAN and NETHERLANDS
-	
+
+=============================================
+Tested with Rails 2.3.* and Rails 3.0.0.beta
+=============================================
+
 	*Thanks keith(http://rubygreenblue.com/) for Australia states
 	*Thanks Vicent (http://www.vicentgozalbes.com/) for Spain states
 	*Thanks Chuck Phillips for Uganda states
