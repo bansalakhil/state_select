@@ -30,8 +30,8 @@ module ActionView::Helpers::FormOptionsHelper
   FRANCE_STATES=["Alsace","Aquitaine","Auvergne","Bourgogne","Bretagne","Centre","Champagne-Ardenne","Corse","Franche-Comte","Ile-de-France","Languedoc-Roussillon","Limousin","Lorraine","Midi-Pyrenees","Nord-Pas-de-Calais","Basse-Normandie","Haute-Normandie","Pays de la Loire","Picardie","Poitou-Charentes","Provence-Alpes-Cote d'Azur","Rhone-Alpes"] unless const_defined?("FRENCE_STATES")
   GERMAN_STATES=["Baden-Wurttemberg", "Bayern", "Berlin", "Brandenburg", "Bremen", "Hamburg", "Hessen", "Mecklenburg- Vorpommern", "Niedersachsen", "Nordrhein-Westfalen", "Rhineland- Pflaz", "Saarland", "Sachsen", "Sachsen-Anhalt", "Schleswig- Holstein", "Thuringen"]  unless const_defined?("GERMAN_STATES")
   NETHERLANDS_STATES=["Drenthe", "Flevoland", "Friesland", "Gelderland", "Groningen", "Limburg", "Noord-Brabant", "Noord-Holland", "Overijssel", "Utrecht", "Zeeland", "Zuid-Holland"] unless const_defined?("NETHERLANDS_STATES")
-end
   MEXICO_STATES=['Aguascalientes', 'Baja California', 'Baja California Sur', 'Campeche', 'Chiapas', 'Chihuahua', 'Coahuila', 'Colima', 'Durango', 'Guanajuato', 'Guerrero', 'Hidalgo', 'Jalisco', 'México', 'Michoacán', 'Morelos', 'Nayarit', 'Nuevo León', 'Oaxaca', 'Puebla', 'Querétaro', 'Quintana Roo', 'San Luis Potosí', 'Sinaloa', 'Sonora', 'Tabasco', 'Tamaulipas', 'Tlaxcala', 'Veracruz', 'Yucatán', 'Zacatecas'] unless const_defined?("MEXICO_STATES")
+end
 
 class ActionView::Helpers::InstanceTag
   
