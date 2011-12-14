@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 module ActionView::Helpers::FormOptionsHelper
 
   # Return select and option tags for the given object and method, using state_options_for_select to generate the list of option tags.
