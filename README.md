@@ -34,6 +34,7 @@ Currently it supports:
 * Thanks Chuck Phillips for Ugandan states
 * Thanks Jonathan Tron for French states
 * Thanks [Gavin Morrice](http://handyrailstips.com/) for UK States
+* Thanks [Filip Tepper](http://tepper.pl/) for Polish States
 
 If you want to add other country please send me the list of states and I will add them, or you can fork and make a pull request.
 
