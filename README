@@ -6,7 +6,7 @@ StateSelect
  Usage:
  state_select(object, method, country='US', options = {}, html_options = {})
 
-  Currently it supports only INDIA, US, UK, CANADA, AUSTRALIA, SPAIN, FRANCE, UGANDA, GERMAN, NETHERLANDS and POLAND
+  Currently it supports only INDIA, US, UK, CANADA, AUSTRALIA, SPAIN, FRANCE, UGANDA, GERMAN, NETHERLANDS, MEXICO and POLAND
 
 =============================================
 Tested with Rails 2.3.* and Rails 3.0.0.beta
