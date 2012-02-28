@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.date = %q{2012-02-28}
   s.description = %q{State select}
   s.email = %q{bansalakhil30.10@gmail.com}
-  s.extra_rdoc_files = ["README", "lib/state_select.rb"]
+  s.extra_rdoc_files = ["lib/state_select.rb"]
   s.homepage = %q{http://github.com/bansalakhil/state_select}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "State_select", "--main", "README"]
   s.rubyforge_project = %q{state_select}
