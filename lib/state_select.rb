@@ -13,7 +13,7 @@ module ActionView::Helpers::FormOptionsHelper
   # NOTE: Only the option tags are returned, you have to wrap this call in a regular HTML select tag.
 
   def state_options_for_select(selected = nil, country = 'US')
-    state_options = ""
+    state_options = "".html_safe
     if country
       state_options += options_for_select(eval(country.upcase+'_STATES'), selected)
     end
